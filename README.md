@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Test embedding html/markdown using [next-mdx-remote](https://github.com/hashicorp/next-mdx-remote)
