@@ -9,12 +9,6 @@
   text-align: center;
 }
 
-.wrapper button {
-  border: none;
-  background: #eee;
-  padding: 1rem 2rem;
-}
-
 .wrapper table {
   border-collapse: collapse;
   margin: 1rem auto;

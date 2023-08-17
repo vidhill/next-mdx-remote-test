@@ -1,0 +1,9 @@
+.myButton {
+  border: none;
+  background: hsl(164, 100%, 37%);
+  padding: 1rem 2rem;
+}
+
+.myButton:hover {
+  background: hsl(164, 100%, 34%);
+}
