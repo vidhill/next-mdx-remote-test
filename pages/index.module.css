@@ -1,0 +1,27 @@
+.wrapper {
+  border-radius: 1rem;
+  padding: 0.5rem 1rem;
+  margin: 2em;
+  min-height: 50vh;
+
+  background: lightgrey;
+
+  text-align: center;
+}
+
+.wrapper button {
+  border: none;
+  background: #eee;
+  padding: 1rem 2rem;
+}
+
+.wrapper table {
+  border-collapse: collapse;
+  margin: 1rem auto;
+}
+
+.wrapper th,
+.wrapper td {
+  border: 1px solid black;
+  padding: 0.25rem 1rem;
+}
